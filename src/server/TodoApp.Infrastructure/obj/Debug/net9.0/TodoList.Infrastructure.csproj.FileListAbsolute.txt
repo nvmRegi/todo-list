@@ -1,0 +1,16 @@
+E:\Programming\git\todo-list\src\server\TodoList.Infrastructure\bin\Debug\net9.0\TodoList.Infrastructure.deps.json
+E:\Programming\git\todo-list\src\server\TodoList.Infrastructure\bin\Debug\net9.0\TodoList.Infrastructure.dll
+E:\Programming\git\todo-list\src\server\TodoList.Infrastructure\bin\Debug\net9.0\TodoList.Infrastructure.pdb
+E:\Programming\git\todo-list\src\server\TodoList.Infrastructure\bin\Debug\net9.0\TodoList.Domain.dll
+E:\Programming\git\todo-list\src\server\TodoList.Infrastructure\bin\Debug\net9.0\TodoList.Domain.pdb
+E:\Programming\git\todo-list\src\server\TodoList.Infrastructure\obj\Debug\net9.0\TodoList.Infrastructure.csproj.AssemblyReference.cache
+E:\Programming\git\todo-list\src\server\TodoList.Infrastructure\obj\Debug\net9.0\TodoList.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\git\todo-list\src\server\TodoList.Infrastructure\obj\Debug\net9.0\TodoList.Infrastructure.AssemblyInfoInputs.cache
+E:\Programming\git\todo-list\src\server\TodoList.Infrastructure\obj\Debug\net9.0\TodoList.Infrastructure.AssemblyInfo.cs
+E:\Programming\git\todo-list\src\server\TodoList.Infrastructure\obj\Debug\net9.0\TodoList.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Programming\git\todo-list\src\server\TodoList.Infrastructure\obj\Debug\net9.0\TodoList.Infrastructure.sourcelink.json
+E:\Programming\git\todo-list\src\server\TodoList.Infrastructure\obj\Debug\net9.0\TodoList.174662ED.Up2Date
+E:\Programming\git\todo-list\src\server\TodoList.Infrastructure\obj\Debug\net9.0\TodoList.Infrastructure.dll
+E:\Programming\git\todo-list\src\server\TodoList.Infrastructure\obj\Debug\net9.0\refint\TodoList.Infrastructure.dll
+E:\Programming\git\todo-list\src\server\TodoList.Infrastructure\obj\Debug\net9.0\TodoList.Infrastructure.pdb
+E:\Programming\git\todo-list\src\server\TodoList.Infrastructure\obj\Debug\net9.0\ref\TodoList.Infrastructure.dll

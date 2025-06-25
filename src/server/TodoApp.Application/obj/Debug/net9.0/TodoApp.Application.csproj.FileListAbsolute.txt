@@ -1,0 +1,16 @@
+E:\Programming\git\todo-list\src\server\TodoApp.Application\bin\Debug\net9.0\TodoApp.Application.deps.json
+E:\Programming\git\todo-list\src\server\TodoApp.Application\bin\Debug\net9.0\TodoApp.Application.dll
+E:\Programming\git\todo-list\src\server\TodoApp.Application\bin\Debug\net9.0\TodoApp.Application.pdb
+E:\Programming\git\todo-list\src\server\TodoApp.Application\bin\Debug\net9.0\TodoApp.Domain.dll
+E:\Programming\git\todo-list\src\server\TodoApp.Application\bin\Debug\net9.0\TodoApp.Domain.pdb
+E:\Programming\git\todo-list\src\server\TodoApp.Application\obj\Debug\net9.0\TodoApp.Application.csproj.AssemblyReference.cache
+E:\Programming\git\todo-list\src\server\TodoApp.Application\obj\Debug\net9.0\TodoApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\git\todo-list\src\server\TodoApp.Application\obj\Debug\net9.0\TodoApp.Application.AssemblyInfoInputs.cache
+E:\Programming\git\todo-list\src\server\TodoApp.Application\obj\Debug\net9.0\TodoApp.Application.AssemblyInfo.cs
+E:\Programming\git\todo-list\src\server\TodoApp.Application\obj\Debug\net9.0\TodoApp.Application.csproj.CoreCompileInputs.cache
+E:\Programming\git\todo-list\src\server\TodoApp.Application\obj\Debug\net9.0\TodoApp.Application.sourcelink.json
+E:\Programming\git\todo-list\src\server\TodoApp.Application\obj\Debug\net9.0\TodoApp..05D78BBE.Up2Date
+E:\Programming\git\todo-list\src\server\TodoApp.Application\obj\Debug\net9.0\TodoApp.Application.dll
+E:\Programming\git\todo-list\src\server\TodoApp.Application\obj\Debug\net9.0\refint\TodoApp.Application.dll
+E:\Programming\git\todo-list\src\server\TodoApp.Application\obj\Debug\net9.0\TodoApp.Application.pdb
+E:\Programming\git\todo-list\src\server\TodoApp.Application\obj\Debug\net9.0\ref\TodoApp.Application.dll

@@ -1,0 +1,12 @@
+E:\Programming\git\todo-list\src\server\TodoList.Domain\bin\Debug\net9.0\TodoList.Domain.deps.json
+E:\Programming\git\todo-list\src\server\TodoList.Domain\bin\Debug\net9.0\TodoList.Domain.dll
+E:\Programming\git\todo-list\src\server\TodoList.Domain\bin\Debug\net9.0\TodoList.Domain.pdb
+E:\Programming\git\todo-list\src\server\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\git\todo-list\src\server\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.AssemblyInfoInputs.cache
+E:\Programming\git\todo-list\src\server\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.AssemblyInfo.cs
+E:\Programming\git\todo-list\src\server\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.csproj.CoreCompileInputs.cache
+E:\Programming\git\todo-list\src\server\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.sourcelink.json
+E:\Programming\git\todo-list\src\server\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.dll
+E:\Programming\git\todo-list\src\server\TodoList.Domain\obj\Debug\net9.0\refint\TodoList.Domain.dll
+E:\Programming\git\todo-list\src\server\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.pdb
+E:\Programming\git\todo-list\src\server\TodoList.Domain\obj\Debug\net9.0\ref\TodoList.Domain.dll
